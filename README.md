@@ -1,4 +1,4 @@
-# DEMAKE-Dunk-Shot
+# DEMAKE Dunk Shot
 Demake do jogo mobile Dunk Shot para a disciplina de Matemática Aplicada à Multimídia.
 
 Link com video de apresentação da aplicação:
